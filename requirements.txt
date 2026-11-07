@@ -1,0 +1,4 @@
+Flask>=3.0,<4
+requests>=2.31,<3
+Flask-Limiter>=3.8,<5
+gunicorn>=22,<24
